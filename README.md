@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there and welcome to my corner of the Internet 👋
 
 <!--
 **rhondakremer/rhondakremer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
