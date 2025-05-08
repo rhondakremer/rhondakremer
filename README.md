@@ -1,4 +1,11 @@
-### Hi there and welcome to my corner of the Internet 👋
+### French horn player turned tech bro 🤙
+
+- Currently working at Okta
+- Living (unofficially) in DC
+- Learning nothing dev-y outside of work
+- Always trying to be a better version of myself
+
+If you wonder if I think about you sometimes, I probably do. Hit that follow button and find out for sure.
 
 <!--
 **rhondakremer/rhondakremer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
