@@ -1,7 +1,7 @@
 ### French horn player turned tech bro 🤙
 
 - Currently working
-- Living in NoVA
+- Fascinated by flowers
 - Always trying to be a better version of myself
 - Occasionally succeeding
 - Vibe coder; same pull requests, red flags instead of red builds
