@@ -2,8 +2,7 @@
 
 - Currently working
 - Fascinated by flowers
-- Always trying to be a better version of myself
-- Occasionally succeeding
+- Always trying to be a better version of myself (occasionally succeeding)
 - Vibe coder; same pull requests, red flags instead of red builds
 
 
