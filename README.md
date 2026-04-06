@@ -1,10 +1,10 @@
 ### French horn player turned tech bro 🤙
 
-- Currently working at Okta
+- Currently working
 - Living in NoVA
-- Learning nothing dev-y outside of work
 - Always trying to be a better version of myself
 - Occasionally succeeding
+- Vibe coder; same pull requests, red flags instead of red builds
 
 
 <!--
